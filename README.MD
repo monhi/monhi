@@ -9,7 +9,7 @@ Hi, I'm Monhi, a Senior C, C++ and Web (Node.js, Bootstrap, EJS, MySQL)  program
 **Connect to me:**
 - Website: [Website](https://dspcom.ir)
 - 💬 Telegram : [@DSPCOMM](https://t.me/DSPCOMM)
-- 📝 Email : info@dspcom.ir,m.monhi@gmail.com
+- 📝 Email : m.monhi@gmail.com
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mahdi-m-462b5a28/)
 
 
