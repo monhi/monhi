@@ -27,5 +27,5 @@ Hi, I'm Monhi, a Senior C, C++ and Web (Node.js, Bootstrap, EJS, MySQL)  program
  - Firmware
  - Fintech
  - Solidity
- - Source Control
+ - Source Control(git)
  
