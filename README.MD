@@ -15,17 +15,17 @@ Hi, I'm Monhi, a Senior C, C++ and Web (Node.js, Bootstrap, EJS, MySQL)  program
 
 **Languages, Tools and Interest:**   
 
+ - Solidity
+ - Node.js
+ - EJS
+ - HTML, CSS, JavaScript
+ - Bootstrap
+ - MySQL
+ - MongoDB
  - C and C++
  - DSP
  - Device Driver 
  - Linux Programming
- - Node.js
- - Bootstrap
- - MySQL
- - EJS
- - HTML, CSS, JavaScript
  - Firmware
  - Fintech
- - Solidity
  - Source Control (git)
- 
