@@ -17,6 +17,7 @@ Hi, I'm Monhi, a Senior C, C++ and Web (Node.js, Bootstrap, EJS, MySQL)  program
 
  - Solidity
  - Node.js
+ - Next.js
  - EJS
  - HTML, CSS, JavaScript
  - Bootstrap
