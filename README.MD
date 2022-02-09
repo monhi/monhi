@@ -25,7 +25,7 @@ Hi, I'm Monhi, a Senior C, C++ and Web (Node.js, Bootstrap, EJS, MySQL)  program
  - Bootstrap
  - MySQL
  - MongoDB
- - C and C++
+ - C and C++ and Rust
  - DSP
  - Device Driver 
  - Linux Programming
