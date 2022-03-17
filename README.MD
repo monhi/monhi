@@ -18,6 +18,7 @@ Hi, I'm Monhi, a Senior C, C++ and Web (Node.js, Bootstrap, EJS, MySQL)  program
  - Blockchain
  - NFT
  - Solidity
+ - Solana
  - Node.js
  - Next.js 
  - React.js
