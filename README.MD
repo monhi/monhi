@@ -19,17 +19,17 @@ Hi, I'm Monhi, a Senior C, C++ and Web (Node.js, Bootstrap, EJS, MySQL)  program
  - NFT
  - Solidity
  - Node.js
- - Next.js
- - EJS
+ - Next.js 
  - React.js
  - HTML, CSS, JavaScript
  - Bootstrap
  - MySQL
  - MongoDB
- - C and C++ and Rust
- - DSP
+ - Rust
+ - C and C++
+ - Source Control (git)
  - Device Driver 
  - Linux Programming
  - Firmware
- - Fintech
- - Source Control (git)
+ - DSP
+ 
