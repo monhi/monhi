@@ -15,13 +15,15 @@ Hi, I'm Monhi, a Senior C, C++ and Web (Node.js, Bootstrap, React, MySQL, MongoD
 
 **Languages, Tools and Interest:**   
 
+ - DEBUGGING SKILLS 
  - Blockchain
  - NFT
  - Solidity
  - Solana
  - Node.js
- - Next.js 
+ - Next.js
  - React.js
+ - Electron
  - HTML, CSS, JavaScript
  - Bootstrap
  - MySQL
@@ -33,4 +35,5 @@ Hi, I'm Monhi, a Senior C, C++ and Web (Node.js, Bootstrap, React, MySQL, MongoD
  - Linux Programming
  - Firmware
  - DSP
+ 
  
