@@ -30,10 +30,12 @@ Hi, I'm Monhi, a Senior C, C++ and Web (Node.js, Bootstrap, React, MySQL, MongoD
  - MongoDB
  - Rust
  - C and C++
- - Source Control (git)
- - Device Driver 
+ - Source Control (GIT)
+ - IoT
+ - Device Drivers 
  - Linux Programming
  - Firmware
  - DSP
+ 
  
  
