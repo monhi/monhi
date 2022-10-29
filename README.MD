@@ -21,6 +21,7 @@ Hi, I'm Monhi, a Senior C, C++ and Web (Node.js, Bootstrap, React, MySQL, MongoD
  - Solidity
  - Solana
  - Node.js
+ - N-API ( Native C and C++ packet development for Node.js)
  - Next.js
  - React.js
  - Electron
