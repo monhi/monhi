@@ -17,8 +17,7 @@ Hi, I'm Monhi, a Senior C, C++ and Web (Node.js, Bootstrap, React, MySQL, MongoD
 
  - DEBUGGING SKILLS 
  - Blockchain
-   - Ethereum network and Solidity
-   - Solana network and Rust
+   - Ethereum network and Solidity   
  - Node.js
  - N-API ( Native C and C++ package development for Node.js)
  - React.js
