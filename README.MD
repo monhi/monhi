@@ -30,7 +30,7 @@ Hi, I'm Monhi, a Senior C, C++ and Web (Node.js, Bootstrap, React, MySQL, MongoD
    - SQLite
  - C and C++
  - Source Control (GIT)
- - IoT
+ - IoT (MQTT)
  - Device Drivers 
  - Linux Programming
  - Firmware development
