@@ -22,7 +22,7 @@ Hi, I'm Monhi, a Senior C, C++ and Web (Node.js, Bootstrap, React, MySQL, MongoD
  - Node.js
  - N-API ( Native C and C++ package development for Node.js)
  - React.js
- - Electron
+ - Electron.JS
  - HTML, CSS, JavaScript, Typescript, Bootstrap
  - Databases
    - MySQL
