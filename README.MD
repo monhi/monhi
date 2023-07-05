@@ -26,6 +26,7 @@ Hi, I'm Monhi, a Senior C, C++, Rust and Web (Node.js, Electron, Bootstrap, Reac
  - React.js
  - HTML, CSS, JavaScript, Typescript, Bootstrap
  - N-API ( Native C and C++ package development for Node.js)
+ - Rust
  - Blockchain
    - Ethereum network 
    - Solidity   
