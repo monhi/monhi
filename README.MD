@@ -2,7 +2,7 @@
 
 <br/>
 
-Hi, I'm Monhi, a Senior C, C++ and Web (Node.js, Bootstrap, React, MySQL, MongoDB)  programmer. Currently, I have a rich experience in firmware, device driver, application and Web marketplace. I am also one of the fans of Blockchain market and try to be a professional in it.
+Hi, I'm Monhi, a Senior C, C++, Rust and Web (Node.js, Electron, Bootstrap, React, MySQL, MongoDB)  programmer. Currently, I have a rich experience in firmware, device driver, application and Web marketplace. I am also one of the fans of Blockchain market and try to be a professional in it.
 <br/>  
 
 
@@ -16,25 +16,26 @@ Hi, I'm Monhi, a Senior C, C++ and Web (Node.js, Bootstrap, React, MySQL, MongoD
 **Skills and Interests:**  
 
  - DEBUGGING SKILLS 
- - Blockchain
-   - Ethereum network 
-   - Solidity   
- - Node.js
- - N-API ( Native C and C++ package development for Node.js)
- - React.js
- - Electron.JS
- - HTML, CSS, JavaScript, Typescript, Bootstrap
- - Databases
-   - MySQL
-   - MongoDB
-   - SQLite
  - C and C++
- - Source Control (GIT)
- - IoT (MQTT)
  - Device Drivers 
  - Linux Programming
  - Firmware development
  - DSP (Digital Signal Processing)
+ - Node.js
+ - Electron.js
+ - React.js
+ - HTML, CSS, JavaScript, Typescript, Bootstrap
+ - N-API ( Native C and C++ package development for Node.js)
+ - Blockchain
+   - Ethereum network 
+   - Solidity   
+- Databases
+   - MySQL
+   - MongoDB
+   - SQLite
+ - Source Control (GIT)
+ - IoT (MQTT)
+
  
  
  
