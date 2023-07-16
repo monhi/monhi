@@ -2,7 +2,7 @@
 
 <br/>
 
-Hi, I'm Monhi, a Senior C, C++, Rust and Web (Node.js, Electron, Bootstrap, React, MySQL, MongoDB)  programmer. Currently, I have a rich experience in firmware, device driver, application and Web marketplace. I am also one of the fans of Blockchain market and try to be a professional in it.
+Hi, I'm Monhi, a Senior C, C++, Rust and web programmer. Currently, I have a rich experience in firmware, device driver, application and Web marketplace. I am also one of the fans of Blockchain tech and try to be a professional in it.
 <br/>  
 
 
