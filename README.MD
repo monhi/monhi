@@ -10,7 +10,7 @@ Hi, I'm Monhi, a Senior C, C++, Rust and web programmer. Currently, I have a ric
 - Website : [website](https://www.dspcom.ir/)
 - 💬 Telegram : [@DSPCOMM](https://t.me/DSPCOMM)
 - 📝 Email : m.monhi@gmail.com
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mahdi-m-462b5a28/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/monhi)
 
 
 **Skills and Interests:**  
