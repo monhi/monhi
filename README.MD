@@ -3,8 +3,8 @@
 
 ### Hello,  I'm [Monhi](https://t.me/dspcomm)  
 
-<br/>
-![](https://komarev.com/ghpvc/?username=monhi)
+
+
 
 <br/>
 <br/>
@@ -20,6 +20,7 @@ Hi, I'm Monhi, a Senior C, C++, Rust and web programmer. Currently, I have a ric
 - 📝 Email : m.monhi@gmail.com
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/monhi)
 
+![](https://komarev.com/ghpvc/?username=monhi)
 
 
 
