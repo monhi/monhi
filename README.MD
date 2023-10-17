@@ -43,7 +43,7 @@ Hi, I'm Monhi, a Senior C, C++, Rust and web programmer. Currently, I have a ric
    - Solidity   
 - Databases
    - MySQL
-   - MongoDB
+   - MongoDB ( Mongoose library for Node.js )
    - SQLite
  - Source Control (GIT)
  - IoT (MQTT)
