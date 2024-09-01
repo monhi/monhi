@@ -34,5 +34,5 @@ Hi, I'm Monhi, a Senior C, C++ and web programmer. Currently, I have a rich expe
  - Blockchain
    - Ethereum network 
    - Solidity   
- - Source Control (GIT)
+ - Source Control (git)
  - IoT (MQTT)
