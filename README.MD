@@ -1,15 +1,15 @@
 
 
-
 ### Hello,  I'm [Monhi](https://t.me/dspcomm)  
 
-
-
-
 <br/>
 <br/>
 
-Hi, I'm Monhi, a Senior C, C++ and web programmer. Currently, I have a rich experience in firmware, device driver, application and Web marketplace. I am also one of the fans of Blockchain tech and try to be a professional in it.
+Hi, I'm Monhi, a Senior C, C++, and web programmer. Currently, I have rich experience in firmware, applications, and the Web marketplace. 
+<br/>
+Recently, I also started working on C++ machine learning libraries like DLIB.
+<br/>
+I am also a fan of Blockchain tech.
 <br/>  
 
 **Connect to me:**
@@ -20,19 +20,11 @@ Hi, I'm Monhi, a Senior C, C++ and web programmer. Currently, I have a rich expe
 
 ![](https://komarev.com/ghpvc/?username=monhi)
 
-
 **Skills and Interests:**  
 
  - DEBUGGING SKILLS 
  - C and C++
- - Device Drivers 
- - Linux Programming
- - Firmware development
  - Node.js
- - Electron.js
- - N-API ( Native C and C++ package development for Node.js)
  - Blockchain
-   - Ethereum network 
-   - Solidity   
- - Source Control (git)
- - IoT (MQTT)
+ 
+
