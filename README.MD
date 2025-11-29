@@ -1,30 +1,26 @@
+### Hi there, I'm Monhi 👋
+Senior C/C++ & Full-Stack Developer  
+[Telegram: @DSPCOMM](https://t.me/dspcomm) • [Website](https://www.dspcom.ir)
 
+Passionate low-level and systems programmer with extensive experience in:
+- Embedded firmware & bare-metal development
+- High-performance C/C++ applications
+- Modern web development (Node.js, full-stack)
+- Computer vision & machine learning (DLib, OpenCV)
+- Blockchain & decentralized systems
 
-### Hello,  I'm [Monhi](https://t.me/dspcomm)  
+Currently diving deeper into C++-based ML libraries and performance-critical applications.
 
-<br/>
-<br/>
+**Let’s connect:**
+- 💬 Telegram: [@DSPCOMM](https://t.me/DSPCOMM)
+- 📧 Email: [m.monhi@gmail.com](mailto:m.monhi@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/monhi](https://www.linkedin.com/in/monhi)
+- 🌍 Website: [dspcom.ir](https://www.dspcom.ir)
 
-Hi, I'm Monhi, a Senior C, C++, and web programmer. Currently, I have rich experience in firmware, applications, and the Web marketplace. 
-<br/>
-Recently, I also started working on C++ machine learning libraries like DLIB.
-<br/>
-I am also a fan of Blockchain tech.
-<br/>  
+**Core Expertise:**
+- C / C++ (17/20/23) • Systems Programming • Debugging & Reverse Engineering
+- Node.js • Web3 • Blockchain
+- Machine Learning (DLib, TensorFlow C++ API)
+- Real-time & Embedded Systems
 
-**Connect to me:**
-- Website : [website](https://www.dspcom.ir/)
-- 💬 Telegram : [@DSPCOMM](https://t.me/DSPCOMM)
-- 📝 Email : m.monhi@gmail.com
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/monhi)
-
-![](https://komarev.com/ghpvc/?username=monhi)
-
-**Skills and Interests:**  
-
- - DEBUGGING SKILLS 
- - C and C++
- - Node.js
- - Blockchain
- 
-
+![](https://komarev.com/ghpvc/?username=monhi&color=brightgreen)
