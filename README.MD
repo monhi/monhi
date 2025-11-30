@@ -20,7 +20,8 @@ Currently diving deeper into C++-based ML libraries and performance-critical app
 **Core Expertise:**
 - C / C++ (17/20/23) • Systems Programming • Debugging & Reverse Engineering
 - Node.js • Web3 • Blockchain
-- Machine Learning (DLib, TensorFlow C++ API)
+- Machine Learning (DLib C++ API)
 - Real-time & Embedded Systems
 
 ![](https://komarev.com/ghpvc/?username=monhi&color=brightgreen)
+
