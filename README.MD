@@ -6,7 +6,7 @@ Passionate low-level and systems programmer with extensive experience in:
 - Embedded firmware & bare-metal development
 - High-performance C/C++ applications
 - Modern web development (Node.js, full-stack)
-- Computer vision & machine learning (DLib, OpenCV)
+- Computer vision & machine learning (DLib,ONNX, OpenCV)
 - Blockchain & decentralized systems
 
 Currently diving deeper into C++-based ML libraries and performance-critical applications.
@@ -20,8 +20,9 @@ Currently diving deeper into C++-based ML libraries and performance-critical app
 **Core Expertise:**
 - C / C++ (17/20/23) • Systems Programming • Debugging & Reverse Engineering
 - Node.js • Web3 • Blockchain
-- Machine Learning (DLib C++ API)
+- Machine Learning (DLib,ONNX C++ API)
 - Real-time & Embedded Systems
 
 ![](https://komarev.com/ghpvc/?username=monhi&color=brightgreen)
+
 
